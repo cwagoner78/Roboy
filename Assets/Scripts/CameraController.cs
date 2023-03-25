@@ -74,6 +74,7 @@ public class CameraController : MonoBehaviour
         var inputPanY = Input.GetAxisRaw("R-Vertical");
         var inputPanX = Input.GetAxisRaw("R-Horizontal");
 
+
         //if (inputZoomOut > 0 && cameraHeight <= maxCameraHeight + 1)cameraHeight = cameraHeight - zoomSpeed;
         //if (inputZoomIn > 0 && cameraHeight >= minCameraHeight - 1) cameraHeight = cameraHeight + zoomSpeed;
         //if (inputResetZoom) ResetZoom();
