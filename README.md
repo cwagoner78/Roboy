@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/roboy.png" alt="Roboy" width="160">
+
 # Roboy
 
 **A challenging micro Metroidvania platformer**
