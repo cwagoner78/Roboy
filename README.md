@@ -14,12 +14,16 @@ and confront the factory owner, Rob Robotson.
 ![Unity](https://img.shields.io/badge/Unity-2020.3.28f1-000000?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Platforms-WebGL%20%7C%20Windows%20%7C%20macOS-blue)
+![Status](https://img.shields.io/badge/Status-Alpha%20%E2%80%94%20on%20hold-orange)
 
 <!-- Add a gameplay GIF here: ![Roboy gameplay](docs/roboy-gameplay.gif) -->
 
 </div>
 
 ---
+
+> [!NOTE]
+> **Unfinished.** Roboy is a playable alpha, and development has been on hold since 2023, with plans to pick it back up. What's below is what works today.
 
 ## ✨ Features
 
@@ -85,7 +89,7 @@ An early project, and the code shows it:
 
 ## 📜 Version History
 
-Development ran from early 2022 into 2023 using **Unity Version Control (Plastic SCM)**. This repository was created afterward, so its commit history doesn't reflect that work. Devlogs covering development are on the [itch.io page](https://redrookinteractive.itch.io/roboy).
+Development ran from early 2022 into 2023, and the project has been on hold since, with more planned. It used **Unity Version Control (Plastic SCM)**. This repository was created afterward, so its commit history doesn't reflect that work. Devlogs covering development are on the [itch.io page](https://redrookinteractive.itch.io/roboy).
 
 ---
 
